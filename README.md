@@ -3,6 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeca53" alt="rebeca53" /></a> </p>
 
+- 🌱 I’m currently learning Geospatial Technologies in my master
 - 📫 How to reach me **rebeca.n.rod@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/rebecanrod/](https://www.linkedin.com/in/rebecanrod/)
 - 😄 Pronouns: she/her
