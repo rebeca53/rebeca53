@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rebeca</h1>
 <h3 align="center">Experienced computer engineer in embedded, mobile & desktop development. Thrives on solving complex problems & pushing tech forward.</h3>
 
