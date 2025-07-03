@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rebeca</h1>
 <h3 align="center">Experienced computer engineer in embedded, mobile & desktop development. Thrives on solving complex problems & pushing tech forward.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeca53" alt="rebeca53" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeca53&theme=darkhub&rank=-C,-?" alt="rebeca53" /></a> </p>
+
 
 - 🌱 I’m currently learning Geospatial Technologies in my master
 - 📫 How to reach me **rebeca.n.rod@gmail.com**
