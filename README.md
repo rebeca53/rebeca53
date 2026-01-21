@@ -2,7 +2,7 @@
 <h3 align="center">Research Engineer | Geospatial Web Developer</h3>
 <h3 align="center">Thrives on solving complex problems & pushing tech forward</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeca53&theme=darkhub&rank=-C,-?" alt="rebeca53" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=rebeca53&theme=matrix&rank=-C,-?" alt="rebeca53" /></a> </p>
 
 
 - 🌱 I’m currently interested in map-centered dashboards
