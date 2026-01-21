@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rebeca53&theme=darkhub&rank=-C,-?" alt="rebeca53" /></a> </p>
 
 
-- 🌱 I’m currently learning Geospatial Technologies in my master
+- 🌱 I’m currently interested in map-centered dashboards
 - 📫 How to reach me **rebeca.n.rod@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/rebecanrod/](https://www.linkedin.com/in/rebecanrod/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Toothless is my favourite dragon
+- ⚡ Fun fact: I love Anne Rice, Naruto, Arcane, and Ursula Le Guin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
